@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tacos Recipe</title>
+</head>
+<body>
+  <h1>Tacos</h1>
+
+  <!-- Using the external image URL you provided -->
+  <img src="https://png.pngtree.com/png-clipart/20240306/original/pngtree-funny-tacos-face-png-image_14519146.png"
+       alt="A plate of tacos with ground beef, cheese, lettuce, and tomato">
+
+  <h2>Description</h2>
+  <p>These classic tacos are filled with seasoned ground beef, crisp shells, and fresh toppings. Perfect for a quick and delicious meal.</p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>1 lb ground beef</li>
+    <li>2/3 cup water</li>
+    <li>1 packet taco seasoning mix</li>
+    <li>10 taco shells, heated as directed</li>
+    <li>1 1/4 cups shredded cheddar cheese</li>
+    <li>1 1/4 cups shredded lettuce</li>
+    <li>3/4 cup diced tomato</li>
+    <li>1 cup sour cream</li>
+  </ul>
+
+  <h2>Steps</h2>
+  <ol>
+    <li>Cook ground beef in a skillet over medium-high heat until fully cooked, then drain excess fat.</li>
+    <li>Stir in water and taco seasoning; simmer 3–4 minutes until thickened.</li>
+    <li>Spoon beef mixture into heated taco shells.</li>
+    <li>Top with cheese, lettuce, tomato, and a dollop of sour cream.</li>
+  </ol>
+</body>
+</html>
