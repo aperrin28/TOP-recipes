@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chocolate Cake Recipe</title>
+</head>
+<body>
+  <h1>Chocolate Cake</h1>
+
+  <!-- Using the external image URL you provided -->
+  <img src="https://i.pinimg.com/736x/3b/ea/ae/3beaae5b7d22035c2b2edf84eeaa6c2f.jpg"
+       alt="A slice of chocolate cake with frosting">
+
+  <h2>Description</h2>
+  <p>This chocolate cake is rich, moist, and perfect for any celebration. Easy to make and topped with creamy chocolate frosting.</p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>2 cups all-purpose flour</li>
+    <li>2 cups sugar</li>
+    <li>3/4 cup cocoa powder</li>
+    <li>2 tsp baking powder</li>
+    <li>1/2 tsp salt</li>
+    <li>1 cup milk</li>
+    <li>1/2 cup vegetable oil</li>
+    <li>2 eggs</li>
+    <li>1 tsp vanilla extract</li>
+  </ul>
+
+  <h2>Steps</h2>
+  <ol>
+    <li>Preheat oven to 350°F (175°C) and grease a cake pan.</li>
+    <li>Mix dry ingredients in a large bowl.</li>
+    <li>Add milk, oil, eggs, and vanilla, then mix until smooth.</li>
+    <li>Pour batter into prepared pan and bake for 30–35 minutes.</li>
+    <li>Let the cake cool before frosting and serving.</li>
+  </ol>
+</body>
+</html>
