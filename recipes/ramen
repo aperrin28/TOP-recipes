@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ramen Recipe</title>
+</head>
+<body>
+  <h1>Ramen</h1>
+
+  <!-- Using the external image URL you provided -->
+  <img src="https://images.getrecipekit.com/20230606152327-25_Instant_ramen.jpg?aspect_ratio=16:9&quality=90&"
+       alt="A bowl of instant ramen with broth, noodles, and garnishes">
+
+  <h2>Description</h2>
+  <p>Ramen is a Japanese noodle soup with endless flavor variations. This recipe is a quick version with rich broth and fresh toppings.</p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>Ramen noodles</li>
+    <li>Chicken broth</li>
+    <li>Soft-boiled egg</li>
+    <li>Sliced pork</li>
+  </ul>
+
+  <h2>Steps</h2>
+  <ol>
+    <li>Prepare broth in a large pot.</li>
+    <li>Cook noodles according to package instructions.</li>
+    <li>Assemble bowl with noodles, broth, and toppings.</li>
+  </ol>
+</body>
+</html>
